@@ -1,13 +1,18 @@
 ### Hi I'm Rangsan Butkaeo 👋
 
 
-##### Frameworks
+##### Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,docker,c,c#,go,java,php,vb,js,figma" />
   </a>
 </p>
-
+# Framework
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap,.net,react,nodejs" />
+  </a>
+</p>
 <!--
 **RangsanB2001/RangsanB2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  
