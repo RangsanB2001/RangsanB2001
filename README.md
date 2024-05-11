@@ -1,10 +1,12 @@
 ### Hi I'm Rangsan Butkaeo 👋
 
-<!--
-**RangsanB2001/RangsanB2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- <a href="#">
+<a href="#">
     <img src="help/badge1.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a>  
+  
+<!--
+**RangsanB2001/RangsanB2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
