@@ -2,19 +2,12 @@
 
 
 ##### Frameworks
-<a href="#">
-    <img src="help/badge1.svg" alt="bootstrap" style="vertical-align:top margin:6px 4px">
-</a>  
-<a href="#">
-    <img src="help/badge1.svg" alt="JQuery" style="vertical-align:top margin:6px 4px">
-</a>  
-<a href="#">
-    <img src="help/badge1.svg" alt="React" style="vertical-align:top margin:6px 4px">
-</a> 
-<a href="#">
-    <img src="help/badge1.svg" alt=".NET" style="vertical-align:top margin:6px 4px">
-</a>  
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
 <!--
 **RangsanB2001/RangsanB2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  
