@@ -1,4 +1,4 @@
-### <h1>Hi I'm Rangsan Butkaeo 👋</h1> 
+### <h1 align="center">Hi I'm Rangsan Butkaeo 👋</h1> 
 
 
 ### Skills
@@ -19,6 +19,9 @@
     <img src="https://skillicons.dev/icons?i=bootstrap,dotnet,react,nodejs" />
   </a>
 </p>
+
+![RangsanB2001](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![RangsanB2001](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-light-mode-only)
 <!--
 **RangsanB2001/RangsanB2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  
