@@ -4,10 +4,13 @@
 ### Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,c,cs,go" />
+    <img src="https://skillicons.dev/icons?i=java,php,js,c,cs,go" />
   </a>
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,php,js,figma" />
+    <img src="https://skillicons.dev/icons?i=go" />
+  </a>
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,jenkins" />
   </a>
 </p>
 ### Framework
