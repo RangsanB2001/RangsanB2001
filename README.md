@@ -4,7 +4,7 @@
 ##### Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,c,c#,go,java,php,vb,js,figma" />
+    <img src="https://skillicons.dev/icons?i=git,docker,c,cs,go" />
   </a>
 </p>
 # Framework
