@@ -1,16 +1,19 @@
-### Hi I'm Rangsan Butkaeo 👋
+### <h1>Hi I'm Rangsan Butkaeo 👋</h1> 
 
 
-##### Skills
+### Skills
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,docker,c,cs,go" />
   </a>
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,php,vb,js,figma" />
+  </a>
 </p>
-# Framework
+### Framework
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,.net,react,nodejs" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,dotnet,react,nodejs" />
   </a>
 </p>
 <!--
