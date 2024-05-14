@@ -4,7 +4,7 @@
 ### Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,php,js,c,cs,go" />
+    <img src="https://skillicons.dev/icons?i=java,php,js,ts,c,cs,go" />
   </a>
    <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,docker,figma,jenkins" />
