@@ -15,6 +15,8 @@
   </a>
 </p>
 <h3>Tools</h3>
+<p align="center">
  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,docker,figma,jenkins" />
   </a>
+</p>
