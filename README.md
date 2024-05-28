@@ -4,7 +4,7 @@
 ### Skills programing language
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,php,js,ts,c,cs,go" />
+    <img src="https://skillicons.dev/icons?i=java,php,js,cs,go" />
   </a>
   
 </p>
