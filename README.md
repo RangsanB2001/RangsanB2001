@@ -11,7 +11,7 @@
 <h3>Framework</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,dotnet,react,nodejs,jquery" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,dotnet,react,nodejs,jquery,vue" />
   </a>
 </p>
 <h3>Tools</h3>
