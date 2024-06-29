@@ -23,6 +23,6 @@
 <h3>Database Tools</h3>
 <p align="center">
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mssql" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
   </a>
 </p>
