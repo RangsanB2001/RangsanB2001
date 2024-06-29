@@ -4,14 +4,14 @@
 ### Skills programing language
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,php,js,cs,go" />
+    <img src="https://skillicons.dev/icons?i=php,js,ts,cs,go" />
   </a>
   
 </p>
 <h3>Framework</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,dotnet,react,nodejs,flutter,jquery" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,dotnet,react,nodejs,jquery" />
   </a>
 </p>
 <h3>Tools</h3>
