@@ -11,7 +11,7 @@
 <h3>Framework</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,dotnet,react,nodejs,jquery,vue,nuxt" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,dotnet,react,nodejs,jquery,vue,nuxt,dotnet" />
   </a>
 </p>
 <h3>Tools</h3>
@@ -23,6 +23,6 @@
 <h3>Database Tools</h3>
 <p align="center">
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,mssql" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
   </a>
 </p>
